@@ -1,5 +1,5 @@
 ##clusters as variables
-setwd("E:/1/UConn/Travellers/all")
+setwd("E:/1/Travellers/all")
 train = read.csv("uconn_comp_2018_train.csv")
 test = read.csv("uconn_comp_2018_test.csv")
 
